@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Samira Hussain 
+As a professional PHP Wordpress developer, I develop custom wordpress themes, custom plugins, wordpress API, php custom applications 
+
+
+My current role: Senior Wordpress Developer, Konnimart
+
 <!--
 **samirahussain01/samirahussain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
